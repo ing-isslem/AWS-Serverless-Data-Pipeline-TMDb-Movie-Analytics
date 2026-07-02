@@ -1,5 +1,22 @@
 # AWS Serverless Data Pipeline: TMDb Movie Analytics
 
+## Project Context
+
+This project was developed as a team project at the **Facultad de Ingeniería, UNAM** by students from the course **Temas Selectos de Ingeniería en Computación III: Ingeniería de Datos y AWS**, during the **2026-2 semester**. The repository contains a cleaned and documented version of the final project for portfolio and CV purposes.
+
+## My Contributions
+
+My main contributions to this project included:
+
+- AWS data lake architecture design.
+- Lambda-based ingestion and transformation pipeline.
+- Bronze, Silver and Gold layer design and documentation.
+- Athena Gold table design for business analytics.
+- Power BI dashboard integration through Athena ODBC.
+- Technical, functional, deployment and infrastructure documentation.
+- Repository organization, architecture diagrams and implementation evidence.
+- Sensitive information review before publishing the project as a portfolio repository.
+
 ## Description
 
 **StreamSight TMDb Analytics** is a serverless data engineering project built on AWS to support movie catalog analytics for a streaming platform. The project uses data from the TMDb API to identify recent market behavior, evaluate movie performance, detect overexposed titles, and generate business-ready insights through a Bronze, Silver and Gold data lake architecture.
